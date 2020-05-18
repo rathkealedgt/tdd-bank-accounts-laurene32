@@ -1,0 +1,10 @@
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\bin\Debug\BankAccounts.xml
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.vbprojAssemblyReference.cache
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.Resources.resources
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.vbproj.GenerateResource.cache
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.xml
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.pdb

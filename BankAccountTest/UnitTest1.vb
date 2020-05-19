@@ -19,6 +19,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
     'Assert.IsNotNull(Account2)
     'Assert.IsNotNull(Account3)
 
+        ' All this should go in your BankAccount class in the main project Lauren. Watch the videos again.
     Public Sub New(AccountOwner As String, AccountNumber As Integer, Balance As Double, InterestRate As Double, Country As String)
 
     End Sub

@@ -1,0 +1,3 @@
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccountTest\obj\Debug\BankAccountTest.vbprojAssemblyReference.cache
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccountTest\obj\Debug\BankAccountTest.Resources.resources
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccountTest\obj\Debug\BankAccountTest.vbproj.GenerateResource.cache

@@ -2,6 +2,6 @@
 
     Sub Main()
 
-    End Sub
 
+    End Sub
 End Module

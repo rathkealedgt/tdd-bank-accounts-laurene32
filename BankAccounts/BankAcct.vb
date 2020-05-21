@@ -1,4 +1,4 @@
-﻿Public Class BankAccount
+﻿Public Class BankAcct
 
     Private AccountOwner As String
     Private AccountNumber As Integer

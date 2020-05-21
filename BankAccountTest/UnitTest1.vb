@@ -1,5 +1,6 @@
 ﻿Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
+Imports BankAccounts
 
 <TestClass()> Public Class UnitTest1
 
@@ -13,9 +14,9 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Dim Country As String = "Isle of Man"
 
         'Act
-        Dim Account1 As New BankAccounts.BankAccount(AccountOwner, AccountNumber, Balance, InterestRate, Country)
-        Dim Account2 As New BankAccounts.BankAccount(AccountOwner, AccountNumber, Balance, InterestRate)
-        Dim Account3 As New BankAccounts.BankAccount(AccountOwner, AccountNumber, Balance)
+        Dim Account1 As New BankAcct(AccountOwner, AccountNumber, Balance, InterestRate, Country)
+        Dim Account2 As New BankAcct(AccountOwner, AccountNumber, Balance, InterestRate)
+        Dim Account3 As New BankAcct(AccountOwner, AccountNumber, Balance)
 
         'Assert
         Assert.IsNotNull(Account1)

@@ -8,3 +8,4 @@ C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\De
 C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.exe
 C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.xml
 C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.pdb
+C:\Users\Lauren\Documents\GitHub\tdd-bank-accounts-laurene32\BankAccounts\obj\Debug\BankAccounts.BankAccountsForm.resources
